@@ -7,7 +7,11 @@ Tailwind CSS works by scanning all of your HTML files, JavaScript components, an
 * HTML5
 * Tailwindcss v.3.0.0
 
+##Demo
+![Capture Twitter](https://user-images.githubusercontent.com/70897449/145606121-20cb864a-2f0d-42cf-a52a-3c3bc73cba0b.PNG)
+
 ## Installation
+
 
 Install tailwindcss via npm, and create your tailwind.config.js file.
 
